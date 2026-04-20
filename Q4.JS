@@ -11,3 +11,4 @@ console.log(firstItem)
 console.log(fruits)
 console.log(fruits.length)
 //console.log(updatedArray)
+
