@@ -12,3 +12,4 @@ console.log(gradeScore(85))
 console.log(gradeScore(62))
 console.log(gradeScore(45))
 console.log(gradeScore(30))
+
