@@ -30,6 +30,7 @@ function summarizeStudent(students) {
     }
 
     results.push(name + " scored " + score + " - Grade: " + grade);
+
   }
 
   return results;
